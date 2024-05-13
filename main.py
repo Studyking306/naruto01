@@ -149,7 +149,7 @@ async def account_login(bot: Client, m: Message):
 
             elif '/master.mpd' in url:
              id =  url.split("/")[-2]
-             url =  "https://api-sarkari.koyeb.app/pwhls?link=https://d26g5bnklkwsh4.cloudfront.net/" + id + "/master.m3u8"
+             url =  "pw-signed-url-26260d62e264.herokuapp.com?v=https://d26g5bnklkwsh4.cloudfront.net/" + id + "/master.m3u8"
               
             elif 'classplusapp' in url:
                   headers = {
