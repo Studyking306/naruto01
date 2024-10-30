@@ -39,14 +39,14 @@
         "API_ID": {
 
             "description": "Your API_ID from https://my.telegram.org/apps",
-            "value": "22308019"
+            "value": "22188044"
 
         },
 
         "API_HASH": {
 
             "description": "Your API_HASH from https://my.telegram.org/apps",
-            "value": "fe49bff9eaadccecb58ded07aff33e88"
+            "value": "099e3a1dce52b7677299c3ab8ab3b6ca"
 
         }
 
